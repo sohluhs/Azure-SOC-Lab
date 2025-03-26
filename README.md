@@ -1,12 +1,10 @@
 # Microsoft Azure SOC Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The Microsoft Azure SOC Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
@@ -15,7 +13,6 @@ The Microsoft Azure SOC Lab project aimed to establish a controlled environment 
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
@@ -28,4 +25,6 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
+
+<img width="931" alt="image" src="https://github.com/user-attachments/assets/2853aed3-0092-4b4c-be3e-a67cd8dfd9f5" />
 *Ref 1: Network Diagram*
