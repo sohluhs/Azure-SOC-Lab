@@ -25,6 +25,16 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
+<img width="931" alt="image" src="https://github.com/user-attachments/assets/3e50cf54-dfb4-4d7d-ac0d-a033392beccb" />
 
-<img width="931" alt="image" src="https://github.com/user-attachments/assets/2853aed3-0092-4b4c-be3e-a67cd8dfd9f5" />
-*Ref 1: Network Diagram*
+*Ref 1: Resource Group With VM, VNET, NSG, Log Analytics Workspace*
+
+
+*Ref 1: Resource Group With VM, VNET, NSG, Log Analytics Workspace*
+
+
+*Ref 1: Resource Group With VM, VNET, NSG, Log Analytics Workspace*
+
+
+*Ref 1: Resource Group With VM, VNET, NSG, Log Analytics Workspace*
+
