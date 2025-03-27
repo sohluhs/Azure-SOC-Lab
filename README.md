@@ -20,7 +20,7 @@ The Microsoft Azure SOC Lab project aimed to establish a controlled environment 
 <img width="931" alt="image" src="https://github.com/user-attachments/assets/3e50cf54-dfb4-4d7d-ac0d-a033392beccb" />
 
 
-*Ref 1: Resource Group creation with VM, VNET, NSG, and Log Analytics Workspace.*
+*Ref 1: Infrastructure creation with VM, VNET, NSG, and Log Analytics Workspace.*
 
 
 
