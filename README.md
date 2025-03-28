@@ -1,5 +1,9 @@
 # Microsoft Azure SOC Lab
 
+<img width="931" alt="image" src="https://github.com/user-attachments/assets/a2ff592b-b82c-4a53-aab7-f8887109ff91" />
+
+*Project Infrastructure*
+
 ## Objective
 
 The Microsoft Azure SOC Lab project aimed to establish a controlled environment for detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system. This hands-on experience was designed to deepen understanding of log analysis, SIEM configuration and network security. 
